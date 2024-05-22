@@ -9,7 +9,6 @@ import {
 } from './styles'
 import { RootReducer } from '../../redux/store'
 import { adicionar } from '../../redux/reducers/contatos'
-import ContatoClass from '../../models/Contato'
 import { useState } from 'react'
 
 const AdicionarContatoContainer = () => {
